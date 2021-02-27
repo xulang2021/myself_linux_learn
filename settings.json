@@ -1,0 +1,5 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "editor.selectionHighlight": true,
+    "workbench.colorCustomizations": {"editor.selectionHighlightBackground": "#e05f5f"}
+}
